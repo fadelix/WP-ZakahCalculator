@@ -1,1 +1,1 @@
-# WP-ZakahCalculator
+# WP-ZakatCalculator
