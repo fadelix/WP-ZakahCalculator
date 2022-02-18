@@ -1,10 +1,12 @@
 # WP-ZakatCalculator
 
 Intro : 
-Uses this code to embed  zakat calculator to your wordpress pages / posts / widgets etc
+
+Uses this code to embed  zakat calculator in your wordpress pages / posts / widgets etc
 
 Usage : 
-1. Copy this php script to your functions.php themes (after <?php)
+
+1. Copy the php script to your functions.php themes (after <?php)
 2. Call in any pages / posts via shortcode --> [CalcZakat]
 3. The script uses bootstrap, so you may need to add bootstrap in your footer.php (before </body> tag)
 
